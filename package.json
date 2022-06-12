@@ -6,9 +6,7 @@
   "directories": {
     "lib": "lib"
   },
-  "start":{
-
-  },
+  "start": {},
   "dependencies": {
     "body-parser": "^1.18.3",
     "exit-on-epipe": "^1.0.1",
@@ -17,7 +15,8 @@
     "joi": "^14.3.1",
     "joi-date-extensions": "^1.2.0",
     "jsonwebtoken": "^8.4.0",
-    "mongoose": "^5.4.6"
+    "mongoose": "^5.4.6",
+    "nodemon": "^2.0.16"
   },
   "devDependencies": {},
   "scripts": {
